@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ChatVk" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\waldes\\documents\\visual\ studio\ 2015\\Projects\\TelegramBot\\TelegramBot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\waldes\\documents\\visual\ studio\ 2015\\Projects\\TelegramBot\\TelegramBot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
